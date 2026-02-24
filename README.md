@@ -25,4 +25,4 @@ I've worked across the full stack with a focus on modern JavaScript/TypeScript e
 I'm always open to remote collaboration and interesting projects. Feel free to reach out if you'd like to work together or just have a chat about tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kianooshsoleimani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kianoosh.soleimani@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kianooshsoleimani@gmail.com)

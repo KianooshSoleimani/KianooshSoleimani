@@ -66,9 +66,11 @@ I've collaborated with **international teams and clients**, delivering products 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KianooshSoleimani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KianooshSoleimani&theme=github_dark" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KianooshSoleimani&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianooshSoleimani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KianooshSoleimani&theme=github_dark" />
 
 <br/><br/>
 

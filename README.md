@@ -2,7 +2,7 @@
 
 # Kianoosh (Kia) Soleimani
 
-**Fullstack Developer | Mobile & Web | Building Products That Scale**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Fullstack+Developer+%7C+Mobile+%26+Web;8%2B+Years+Building+Products+That+Scale;React+Native+%7C+React+%7C+Next.js+%7C+TypeScript;Open+to+Remote+Collaboration" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-soleimani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianooshsoleimani@gmail.com)
@@ -80,12 +80,27 @@ I actively integrate **AI-powered tools** into my development workflow to move f
 
 ---
 
+### Highlights
+
+- **8+** years of professional experience
+- **50+** projects shipped across mobile and web
+- **10+** international clients served
+- **100%** remote work experience
+
+---
+
 ### What I'm Working On
 
 - Building performant cross-platform mobile apps with **React Native**
 - Crafting modern web experiences with **Next.js** and **TypeScript**
 - Integrating **AI tools** into my development workflow for faster, smarter delivery
 - Exploring scalable architectures and clean code practices
+
+---
+
+### Ask Me About
+
+React Native performance optimization, building scalable Next.js apps, TypeScript best practices, mobile app architecture, AI-assisted development workflows, or working remotely with international teams.
 
 ---
 
@@ -107,7 +122,17 @@ I actively integrate **AI-powered tools** into my development workflow to move f
 
 ---
 
+### Snake
+
 <div align="center">
+<img src="https://raw.githubusercontent.com/KianooshSoleimani/KianooshSoleimani/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 **Thanks for visiting!** If you'd like to collaborate, feel free to reach out.
 

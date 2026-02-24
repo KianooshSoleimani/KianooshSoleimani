@@ -2,7 +2,7 @@
 
 # Kianoosh Soleimani
 
-**Mobile & Web Application Developer**
+**Fullstack Developer | Mobile & Web | Building Products That Scale**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-soleimani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianooshsoleimani@gmail.com)

@@ -2,7 +2,7 @@
 
 # Kianoosh (Kia) Soleimani
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Fullstack+Developer+%7C+Mobile+%26+Web;8%2B+Years+Building+Products+That+Scale;React+Native+%7C+React+%7C+Next.js+%7C+TypeScript;Open+to+Remote+Collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Fullstack+Developer+%7C+Mobile+%26+Web;10%2B+Years+Building+Products+That+Scale;React+Native+%7C+React+%7C+Next.js+%7C+TypeScript;Open+to+Remote+Collaboration" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-soleimani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianooshsoleimani@gmail.com)
@@ -82,7 +82,7 @@ I actively integrate **AI-powered tools** into my development workflow to move f
 
 ### Highlights
 
-- **8+** years of professional experience
+- **10+** years of professional experience
 - **50+** projects shipped across mobile and web
 - **10+** international clients served
 - **100%** remote work experience

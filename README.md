@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kianoosh Soleimani
+# Kianoosh (Kia) Soleimani
 
 **Fullstack Developer | Mobile & Web | Building Products That Scale**
 

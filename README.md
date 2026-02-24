@@ -72,7 +72,7 @@ I've collaborated with **international teams and clients**, delivering products 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KianooshSoleimani&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=KianooshSoleimani&theme=github-dark-blue&hide_border=true" />
 
 </div>
 

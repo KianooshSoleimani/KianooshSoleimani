@@ -14,9 +14,11 @@
 
 ### About Me
 
-Software developer with **8+ years** of experience building mobile and web applications from the ground up. I work across the full product lifecycle — from architecture and prototyping to deployment and scale — with a focus on modern JavaScript/TypeScript ecosystems.
+I'm a software developer with **8+ years** of hands-on experience shipping mobile and web products end-to-end — from early-stage prototyping and architecture to production deployment and scaling. My core expertise lives in the **React / React Native / TypeScript** ecosystem, but I'm always expanding my toolkit.
 
-I've collaborated with **international teams and clients**, delivering products used by thousands of users. Currently open to **remote collaboration** on meaningful projects.
+I've built and delivered products for **international clients** across different industries, working closely with cross-functional teams in fully remote setups. I care about writing clean, maintainable code and building things that actually solve real problems.
+
+I actively integrate **AI-powered tools** into my development workflow to move faster and build smarter.
 
 ---
 
@@ -52,12 +54,19 @@ I've collaborated with **international teams and clients**, delivering products 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 ---
 
 ### What I'm Working On
 
 - Building performant cross-platform mobile apps with **React Native**
 - Crafting modern web experiences with **Next.js** and **TypeScript**
+- Integrating **AI tools** into my development workflow for faster, smarter delivery
 - Exploring scalable architectures and clean code practices
 
 ---
